@@ -6,4 +6,9 @@ public class MainTest {
     public void test1() {
         assertEquals(1, 1);
     }
+
+    @Test
+    public void test2() {
+        assertEquals(2, 2);
+    }
 }
