@@ -7,4 +7,9 @@ public class NewFeature1Test {
     public void test1() {
         assertEquals(2, 2);
     }
+
+    @Test
+    public void test2() {
+        assertEquals(2, 2);
+    }
 }
