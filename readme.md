@@ -1,0 +1,1 @@
+![](TeamCity_Icon.png)
