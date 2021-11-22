@@ -10,6 +10,6 @@ public class NewFeature1Test {
 
     @Test
     public void test2() {
-        assertEquals(5, 5);
+        assertEquals(6, 6);
     }
 }
