@@ -12,4 +12,9 @@ public class Feature1Test {
     public void test2() {
         assertEquals(2, 2);
     }
+
+    @Test
+    public void test3() {
+        assertEquals(2, 2);
+    }
 }
